@@ -1,0 +1,7 @@
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\bin\Debug\PE_App2_ProcessThreads.exe.config
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\bin\Debug\PE_App2_ProcessThreads.exe
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\bin\Debug\PE_App2_ProcessThreads.pdb
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\obj\Debug\PE_App2_ProcessThreads.csprojResolveAssemblyReference.cache
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\obj\Debug\PE_App2_ProcessThreads.csproj.CoreCompileInputs.cache
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\obj\Debug\PE_App2_ProcessThreads.exe
+c:\users\juju_\source\repos\PE_App2_ProcessThreads\PE_App2_ProcessThreads\obj\Debug\PE_App2_ProcessThreads.pdb

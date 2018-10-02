@@ -1,0 +1,7 @@
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\bin\Debug\PE_App2_Secondaire.exe.config
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\bin\Debug\PE_App2_Secondaire.exe
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\bin\Debug\PE_App2_Secondaire.pdb
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\obj\Debug\PE_App2_Secondaire.csprojResolveAssemblyReference.cache
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\obj\Debug\PE_App2_Secondaire.csproj.CoreCompileInputs.cache
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\obj\Debug\PE_App2_Secondaire.exe
+c:\users\juju_\source\repos\PE_App2_Secondaire\PE_App2_Secondaire\obj\Debug\PE_App2_Secondaire.pdb
